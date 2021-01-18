@@ -1,6 +1,5 @@
 https://codepen.io/hleslie5/pen/ExgrNrL?editors=1100
 
-
 1. What is Semantic HTML? 
 Semantic HTML refers to hypertext markup language tags that have more than just language associated the tags--meaning also exists with the language.  For example, <h1> is a semantic tag and <div> is a non-semantic tag.  A tag in which the meaning can be easily ascertained indicates that it can be termed a semantic tag.  Computers which read the code can best use the code if the HTML is written semantically appropriately.
 
